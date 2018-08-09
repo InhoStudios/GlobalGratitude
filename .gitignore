@@ -1,2 +1,4 @@
 
 src/main/java/ClientToken\.java
+
+target/classes/credentials\.json
